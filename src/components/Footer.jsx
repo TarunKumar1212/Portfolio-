@@ -71,7 +71,7 @@ function Footer() {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 1, delay: 0.4 }}
       >
-        &copy; {new Date().getFullYear()} Your Brand. All rights reserved.
+        &copy; {new Date().getFullYear()} @TarunKumar. All rights reserved.
       </motion.div>
     </motion.footer>
   );

@@ -1,6 +1,7 @@
 import React from "react";
 import { FaLinkedin, FaGithub, FaInstagram, FaEnvelope } from "react-icons/fa";
-import img1 from "../assets/myImg/pic1.jpg";
+// import img1 from "../assets/myImg/pic1.jpg";
+import img1 from "../assets/myImg/newImg.webp"
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import About from "./About";

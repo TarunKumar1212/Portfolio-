@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+App.jsx
+Home.jsx
+Layout.jsx
+Projects.jsx

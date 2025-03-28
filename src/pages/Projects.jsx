@@ -1,8 +1,8 @@
 import React from "react";
 import { motion } from "framer-motion";
-import restImg from "../assets/projects/resutarant.png";
-import eduImg from "../assets/projects/education.png";
-import painttImg from "../assets/projects/paintball.png";
+import restImg from "../assets/projects/newRest.webp";
+import eduImg from "../assets/projects/newEd.webp";
+import painttImg from "../assets/projects/newPaint.webp";
 
 const projects = [
   {

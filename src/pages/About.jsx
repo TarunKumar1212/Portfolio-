@@ -1,5 +1,6 @@
 import React from "react";
-import img1 from "../assets/myImg/pic1.jpg";
+
+import img1 from "../assets/myImg/newImg.webp"
 import { motion } from "framer-motion";
 import { useEffect } from "react";
 
