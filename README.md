@@ -25,3 +25,5 @@ This project is a personal portfolio website built using **React.js** and **Vite
 2. **Run the development server**  
    npm run dev
    
+**Visite Here**
+https://tarunportfolio1.netlify.app/
